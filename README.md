@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠 &nbsp;Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Markay12">
@@ -58,5 +58,5 @@ Here are some ideas to get you started:
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/markashinhust/"><img src="https://img.shields.io/badge/-Rafael%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ashinhust.brass@gmail.com"><img src="https://img.shields.io/badge/-rafael.jr077@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/markashinhust/"><img src="https://img.shields.io/badge/-Mark%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ashinhust.brass@gmail.com"><img src="https://img.shields.io/badge/-ashinhust.brass@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
