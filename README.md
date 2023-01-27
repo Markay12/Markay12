@@ -2,20 +2,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFAD00&center=true&width=435&lines=Embedded+Software+Developer;Computer+Engineering+Student;Neural+Network+Researcher" alt="Typing SVG" /></a>
 
-<!--
-**azizovrafael/azizovrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Tech Stack
 
@@ -33,11 +19,6 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=flat&logo=apple&logoColor=white)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
-![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-
-
 ### GitHub Analytics
 
 <p align="center">
@@ -49,13 +30,13 @@ Here are some ideas to get you started:
 
 
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+<summary><b>Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Markay12"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Markay12&custom_title=Mark's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
   
-  ### 🤝🏻 &nbsp;Connect with Me
+  ### Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/markashinhust/"><img src="https://img.shields.io/badge/-Mark%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
