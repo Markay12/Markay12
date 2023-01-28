@@ -3,12 +3,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFAD00&center=true&width=435&lines=Embedded+Software+Developer;Computer+Engineering+Student;Neural+Network+Researcher" alt="Typing SVG" /></a>
 
 
-### Most Used Languages [Ordered]
+### Most Used Languages/Programs - *Ordered*
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Vitis/Vivado](https://img.shields.io/badge/-Vitis/Vivado-E01F27?logo=xilinx&logoColor=black&style=flat)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)&nbsp;
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)&nbsp;
 ![Swift5](https://img.shields.io/badge/-Swift5-F05138?logo=swift&logoColor=black&style=flat)&nbsp;
   
 
