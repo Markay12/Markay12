@@ -35,15 +35,7 @@ __Packages__:
 </a>
 </p>
 
-
-
-<summary><b>Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Markay12"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Markay12&custom_title=Mark's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-  
-  
-  ### Connect with Me
+### Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/markashinhust/"><img src="https://img.shields.io/badge/-Mark%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
